@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XmlEntity namespace="我靠">
+	<element id="xmlElement1">
+		我是一xmlElement1
+	</element>
+	<element id="xmlElement2">
+		我是一xmlElement2
+	</element>
+</XmlEntity>
